@@ -8,4 +8,5 @@
 
 
 5. https://learn.deeplearning.ai/courses/agentic-ai/information
+6. https://www.boot.dev/courses/learn-retrieval-augmented-generation
 
